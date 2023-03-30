@@ -1,6 +1,6 @@
 # Would You Rather Game Project
 
-This final assessment project for Udacity's React Nanodegree program. \_DATA.js was the only starter code provided because it served as a fake database for the application
+This final assessment project for Udacity's React Nanodegree program. \_DATA.js was provided as a starter code as it served as a fake database for the application.
 
 This app allows a user play the “Would You Rather?” game. The game goes like this: A user is asked a question in the form: “Would you rather [option A] or [option B] ?”. Answering "neither" or "both" is against the rules.
 
